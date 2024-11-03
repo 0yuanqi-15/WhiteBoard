@@ -42,3 +42,6 @@ Communication is implemented using **Java RMI**. The server registers the "White
 ## Getting Started
 1. **Server Setup**: Run `CreateWhiteBoard` to initialize the server.
 2. **Client Setup**: Run `JoinWhiteBoard` to connect as a client.
+
+## License
+This project is not licensed for distribution or modification. University students are permitted to reference this repository for educational purposes only. Copying or reproducing any part of this project without proper attribution may lead to serious plagiarism issues and academic consequences. Please ensure that any use of this material complies with your institution's academic integrity policies.
